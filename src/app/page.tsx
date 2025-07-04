@@ -6,6 +6,7 @@ export default function Home() {
       <h2>Main branch</h2>
       <p>Feature branch created</p>
       <p>Feature branch 2 created</p>
+      <p>Feature branch 3 created</p>
     </div>
   );
 }
